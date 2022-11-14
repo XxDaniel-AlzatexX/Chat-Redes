@@ -1,2 +1,2 @@
 # Chat-Redes
-Proyecto realizado en el 2022. Consiste en un cliente y un servidor realizados en java. Se conectan por medio de IPv4 y el servidor gestiona varios clientes.
+Project carried out in 2022. It consists of a client and a server made in java. They connect via IPv4 and the server manages several clients. Project already finished.
